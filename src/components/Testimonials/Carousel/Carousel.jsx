@@ -31,6 +31,7 @@ const Carousel = () => {
         modules={[Autoplay, FreeMode, Pagination]}
       >
         {Feedbacks.map((feedback, index) => {
+          console.log(feedback,index)
           return(
             <SwiperSlide key={index}>
               <Card feedback={feedback}/>

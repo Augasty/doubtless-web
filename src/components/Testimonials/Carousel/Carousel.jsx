@@ -20,7 +20,7 @@ const Carousel = () => {
         slidesPerView={twoScreen ? (oneScreen ? 1 : 2.5) : 3.5}
         spaceBetween={30}
         freeMode={true}
-        loop={true}
+        loop={false}
         // pagination={{
         //   clickable: true,
         // }}

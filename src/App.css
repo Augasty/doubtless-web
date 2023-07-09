@@ -361,19 +361,19 @@
     height: 50vw;
     position: relative;
     width: 122.361vw;
-  }
-  
-  .desktop .rectangle-4 {
     background-color: #f9fcff;
     border: 1px solid;
     border-color: #f3f5f9;
     box-shadow: 0vw 0.069vw 3.889vw #00000003;
+  }
+  
+  /* .desktop .rectangle-4 {
     height: 50vw;
     left: 0vw;
     position: absolute;
     top: 0;
     width: 100vw;
-  }
+  } */
   
   .desktop .hear-from-the {
     color: transparent;
